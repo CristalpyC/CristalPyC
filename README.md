@@ -7,7 +7,7 @@
 
 - 👾 I’m currently working on **a collaborative travel app using React JS and Spring Boot**
 
-- 📘 I’m currently learning **Pandas, Hadoop, Node.js**
+- 📘 I’m currently learning **Pandas, Django, Node.js**
 
 - 🤝🏻 I’m looking to collaborate on **web page designs, prototypes and more**
 
