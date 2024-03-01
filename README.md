@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristalpyc&label=Profile%20views&color=0e75b6&style=flat" alt="cristalpyc" /> </p>
 
-- 👾 I’m currently working on **a collaborative travel app using React JS and Spring Boot**
+- 👾 I’m currently working on **a kids shop app**
 
-- 📘 I’m currently learning **Pandas, Django, Node.js**
+- 📘 I’m currently learning **Next.Js and PowerBi**
 
 - 🤝🏻 I’m looking to collaborate on **web page designs, prototypes and more**
 
