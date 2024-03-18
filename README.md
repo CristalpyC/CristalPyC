@@ -7,7 +7,7 @@
 
 - 👾 I’m currently working on **a kids shop app**
 
-- 📘 I’m currently learning **Next.Js and PowerBi**
+- 📘 I’m currently learning **Next.Js and Flutter**
 
 - 🤝🏻 I’m looking to collaborate on **web page designs, prototypes and more**
 
