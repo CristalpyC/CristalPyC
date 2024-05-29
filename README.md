@@ -9,7 +9,7 @@
 
 - 📘 I’m currently learning **Angular and Flutter**
 
-- 🤝🏻 I’m looking to collaborate on **web page designs, prototypes and more**
+- 🤝🏻 I’m looking to collaborate on **web page development, prototypes and more**
 
 - 💬 Ask me about **React, python, git, and more...**
 
