@@ -7,7 +7,7 @@
 
 - 👾 I’m currently working on **a kids shop app**
 
-- 📘 I’m currently learning **Angular and Flutter**
+- 📘 I’m currently learning **Angular**
 
 - 🤝🏻 I’m looking to collaborate on **web page development, prototypes and more**
 
